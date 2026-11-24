@@ -1,0 +1,6 @@
+{
+  "name": "Happy Birthday Fatima",
+  "description": "An interactive birthday celebration and keepsake journey made with love for Fatima.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
